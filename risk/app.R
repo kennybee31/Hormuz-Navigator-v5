@@ -7,7 +7,10 @@ if(!require(tidyverse)) install.packages("tidyverse")
 library(shiny)
 library(plotly)
 library(bslib)
-library(tidyverse)
+library(ggplot2)
+library(dplyr)
+library(scales)
+library(munsell)
 
 # --- 2. 語系與 AI 戰略字典 ---
 i18n <- list(

@@ -1,0 +1,15 @@
+Package: HormuzNavigator
+Type: Package
+Title: Hormuz Strategic Navigator V5.2
+Version: 0.1.0
+Imports:
+    shiny,
+    plotly,
+    bslib,
+    ggplot2,
+    dplyr,
+    scales,
+    munsell,
+    colorspace,
+    gtable,
+    isoband
